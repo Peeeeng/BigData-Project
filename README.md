@@ -85,13 +85,15 @@ Steam 게임 데이터를 기반으로 **연도별 인기 게임 장르의 변�
 
 
 
-## 📈 Analysis (Planned)
+## 📈 Analysis
 
 - 연도별 인기 장르 트렌드 시각화
 - 리뷰 수 기반 장르 인기 비교
 - 무료/유료 게임 장르 분포 차이 분석
 - 멀티플레이 여부에 따른 장르 변화 분석
 
+<img width="1008" height="5478" alt="1" src="https://github.com/user-attachments/assets/05b7de38-4236-4dd0-9757-19cdf29b4523" />
+<img width="915" height="2859" alt="2" src="https://github.com/user-attachments/assets/92e54818-57c9-432f-98c5-eae2562a8ec9" />
 
 
 ## 💡 Expected Insights
