@@ -84,7 +84,6 @@ Steam 게임 데이터를 기반으로 **연도별 인기 게임 장르의 변�
 | peak_ccu | 최대 동시 접속자 수 |
 
 
-
 ## 📈 Analysis
 
 - 연도별 인기 장르 트렌드 시각화
@@ -92,11 +91,6 @@ Steam 게임 데이터를 기반으로 **연도별 인기 게임 장르의 변�
 - 무료/유료 게임 장르 분포 차이 분석
 - 멀티플레이 여부에 따른 장르 변화 분석
 
-<img width="905" height="5478" alt="0" src="https://github.com/user-attachments/assets/1414b473-a061-455a-8937-ba07a7eb729d" />
-
-<img width="1008" height="5478" alt="1" src="https://github.com/user-attachments/assets/43d5fdb9-7dd8-46e1-90dc-383b8bf7c0b0" />
-
-<img width="915" height="2859" alt="2" src="https://github.com/user-attachments/assets/92e54818-57c9-432f-98c5-eae2562a8ec9" />
 
 ## 💡 Expected Insights
 
