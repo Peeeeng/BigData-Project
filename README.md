@@ -92,7 +92,7 @@ Steam 게임 데이터를 기반으로 **연도별 인기 게임 장르의 변�
 - 무료/유료 게임 장르 분포 차이 분석
 - 멀티플레이 여부에 따른 장르 변화 분석
 
-<img width="1008" height="5478" alt="1" src="https://github.com/user-attachments/assets/25862620-5ce2-4934-bb33-abd7822ce540" />
+<img width="1008" height="6000" alt="1" src="https://github.com/user-attachments/assets/25862620-5ce2-4934-bb33-abd7822ce540" />
 
 <img width="915" height="2859" alt="2" src="https://github.com/user-attachments/assets/92e54818-57c9-432f-98c5-eae2562a8ec9" />
 
