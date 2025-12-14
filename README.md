@@ -98,6 +98,7 @@ Steam 게임 데이터를 기반으로 **연도별 인기 게임 장르의 변�
 
 <img width="915" height="2859" alt="2" src="https://github.com/user-attachments/assets/92e54818-57c9-432f-98c5-eae2562a8ec9" />
 
+<img width="905" height="5478" alt="0" src="https://github.com/user-attachments/assets/121224ce-686f-4239-a428-e0ad0c149fdd" />
 
 ## 💡 Expected Insights
 
